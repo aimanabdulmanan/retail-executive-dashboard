@@ -1,6 +1,6 @@
 # Retail Executive Dashboard
 
-**Technologies:** Power BI · SQL Server Express · SQL SMS 22 · DAX · Power Query (M)  
+**Technologies:** Power BI · SQL Server Express · SMSS 22 · DAX · Power Query (M)  
 **Databases:** AdventureWorksOLTP25 & AdventureWorksDW25  
 
 ---
@@ -15,18 +15,6 @@ This repository showcases my Power BI dashboard, designed specifically for retai
 
 #### Main Dashboard Overview
 <img alt="Main Dashboard Overview" src="https://github.com/user-attachments/assets/af5068d4-30a5-48d6-b417-5fa10473b10a" />
-
-<br>
-
-#### Dynamic Slicers & Tooltip Preview
-<img alt="Tooltip Preview" src="https://github.com/user-attachments/assets/ae010d5c-1648-42b3-8764-8f9c79f4a307" />
-
-<br>
-
-#### Product Order Drill-Through Page
-<img alt="Drill-through Detail View" src="https://github.com/user-attachments/assets/621b9d8a-b4a3-482c-b515-0b59600d748f" />
-
----
 
 ## Dashboard Key Features
 
