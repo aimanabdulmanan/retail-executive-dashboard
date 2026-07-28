@@ -2,7 +2,7 @@
 
 **Technologies:** Power BI · SQL Server Express · SQL SMS 22 · DAX · Power Query (M)
 
----
+**Databases:** AdventureWorksOLTP25 & AdventureWorksDW25
 
 ## Description
 
