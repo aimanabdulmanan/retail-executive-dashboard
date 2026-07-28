@@ -8,6 +8,9 @@
 
 This repository showcases my Power BI dashboard, designed specifically for retail executives. It utilises the AdventureWorksOLTP25 and AdventureWorksDW25 databases, hosted on SQL Server Express and managed via SSMS 22. Connecting these databases directly to Power BI enables dynamic, real-time data visualisation straight from the database server.
 
+## Dashboard Preview
+![Retail Executive Dashboard Overview](<img width="1517" height="852" alt="image" src="https://github.com/user-attachments/assets/af5068d4-30a5-48d6-b417-5fa10473b10a" />)
+
 ### Dashboard Key Features
 
 - New DAX measures and slicers to display sales and delivery performance KPIs.
