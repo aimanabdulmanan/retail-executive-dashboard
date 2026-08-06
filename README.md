@@ -4,7 +4,7 @@ Power BI · SQL Server Express · SMSS 22 · DAX · Power Query (M) · Adventure
 ---
 
 ## Description
-This repository showcases my Power BI dashboard, designed specifically for retail executives. It utilises the AdventureWorksOLTP25 and AdventureWorksDW25 databases, hosted on SQL Server Express and managed via SSMS 22. Connecting these databases directly to Power BI enables dynamic, real-time data visualisation straight from the database server.
+This repository showcases my Power BI dashboard, designed specifically for retail executives. It utilises the AdventureWorksOLTP25 and AdventureWorksDW25 databases, hosted on SQL Server Express and managed via SSMS 22. Connecting these databases directly to Power BI enables dynamic, large-scale data visualisation straight from the database server.
 
 ---
 
